@@ -1,1 +1,11 @@
 cred.txt
+sparkstreaming/src/main/resources/twitter.txt
+*.class
+*.log
+target
+.idea
+out
+*.DS_Store
+__pycache__/
+*.pyc
+*.db
